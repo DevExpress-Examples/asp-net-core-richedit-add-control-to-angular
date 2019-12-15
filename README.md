@@ -28,5 +28,4 @@ Documentation:
 - [Rich Text Editor](https://docs.devexpress.com/AspNetCore/400373/office-inspired-controls/controls/rich-edit)
 
 Examples:
-- [Dashboard Client-Side Application (React)](https://github.com/DevExpress-Examples/dashboard-react-app)
-- [Dashboard Client-Side Application (Vue)](https://github.com/DevExpress-Examples/dashboard-vue-app)
+- [RichEdit for Angular - How to customize the built-in ribbon](https://docs.devexpress.com/AspNetCore/400373/office-inspired-controls/controls/rich-edit) - (to be corrected)
