@@ -2,7 +2,7 @@
 
 This example is a ready-to-use client Angular application with the DevExpress RichEdit component.
 
-> **Documentation**: [Add RichEdit to an Angular Application](https://docs.devexpress.com/AspNetCore/400373/office-inspired-controls/controls/rich-edit) - (to be corrected)
+> **Documentation**: [Add RichEdit to an Angular Application](https://docs.devexpress.com/AspNetCore/400972/office-inspired-controls/controls/rich-edit/angular)
 
 ## Requirements
 * To use the RichEdit control in an Angular application, you need to have a [Universal, DXperience, or ASP.NET subscription](https://www.devexpress.com/buy/net/).
@@ -24,8 +24,8 @@ This example is a ready-to-use client Angular application with the DevExpress Ri
 
 ## See Also
 Documentation:
-- [Add RichEdit to an Angular Application](https://docs.devexpress.com/AspNetCore/400373/office-inspired-controls/controls/rich-edit) - (to be corrected)
+- [Add RichEdit to an Angular Application](https://docs.devexpress.com/AspNetCore/400972/office-inspired-controls/controls/rich-edit/angular)
 - [Rich Text Editor](https://docs.devexpress.com/AspNetCore/400373/office-inspired-controls/controls/rich-edit)
 
 Examples:
-- [RichEdit for Angular - How to customize the built-in ribbon](https://docs.devexpress.com/AspNetCore/400373/office-inspired-controls/controls/rich-edit) - (to be corrected)
+- [RichEdit for Angular - How to customize the built-in ribbon](https://github.com/DevExpress-Examples/richedit-for-angular-how-to-customize-the-built-in-ribbon)
