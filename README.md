@@ -1,10 +1,8 @@
-# RichEdit Client-Side Application (Angular)
+# RichEdit Angular Application
 
 This example is a ready-to-use client Angular application with the DevExpress RichEdit component.
 
 > **Documentation**: [Add RichEdit to an Angular Application](https://docs.devexpress.com/AspNetCore/400373/office-inspired-controls/controls/rich-edit) - (to be corrected)
-
-The [JS](JS) folder contains a client application.
 
 ## Requirements
 * To use RichEdit control in Angular application you should have [Universal, DXperience, or ASP.NET subscription](https://www.devexpress.com/buy/net/).
@@ -23,8 +21,6 @@ The [JS](JS) folder contains a client application.
     ```bash
     ng serve --open
     ```
-
-3. Open ```http://localhost:4200/``` in your browser to see the result.
 
 ## See Also
 Documentation:
