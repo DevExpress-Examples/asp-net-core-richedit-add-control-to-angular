@@ -12,15 +12,15 @@ This example is a ready-to-use client Angular application with the DevExpress Ri
 
 1. Open the **JS** folder. In the command prompt, download and install npm packages that are used in the application:
 
-    ```
-    npm install
-    ```
+```
+npm install
+```
 
 2. In the same folder, run the following command to compile and run the application:
 
-    ```bash
-    ng serve --open
-    ```
+```bash
+ng serve --open
+```
 
 ## See Also
 Documentation:
