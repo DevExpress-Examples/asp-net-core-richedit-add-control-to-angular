@@ -1,6 +1,5 @@
 import { Component, ElementRef, OnDestroy, AfterViewInit } from '@angular/core';
-import { create, createOptions, RichEdit, Interval, ViewType } from 'devexpress-richedit';
-import { RichEditUnit } from 'devexpress-richedit/lib/base-utils/base-utils/unit-converter';
+import { create, createOptions, RichEdit, Interval, ViewType, RichEditUnit } from 'devexpress-richedit';
 
 @Component({
   selector: 'app-richedit',
