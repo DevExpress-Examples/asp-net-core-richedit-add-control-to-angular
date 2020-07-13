@@ -2,7 +2,7 @@
 
 This example is a ready-to-use client Angular application with the DevExpress RichEdit component.
 
-> **Documentation**: [Add RichEdit to an Angular Application](https://docs.devexpress.com/AspNetCore/401527/office-inspired-controls/controls/rich-edit/angular)
+> **Documentation**: [Rich Text Editor > Get Started > Angular Application](https://docs.devexpress.com/AspNetCore/401527/rich-edit/get-started/angular-application)
 
 ## Requirements
 * To use the RichEdit control in an Angular application, you need to have a [Universal, DXperience, or ASP.NET subscription](https://www.devexpress.com/buy/net/).
