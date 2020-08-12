@@ -23,7 +23,7 @@
     "devextreme": "^19.2.8",
     "exact": "^0.8.0",
     "rxjs": "~6.5.5",
-    "serialize-javascript": "^2.1.2",
+    "serialize-javascript": "^3.1.0",
     "stream": "0.0.2",
     "tslib": "^1.10.0",
     "zone.js": "~0.10.2"
