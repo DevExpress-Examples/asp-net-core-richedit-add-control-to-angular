@@ -5,9 +5,7 @@
 <!-- default badges end -->
 # RichEdit Angular Application
 
-This example is a ready-to-use client Angular application with the DevExpress RichEdit component.
-
-> **Documentation**: [Rich Text Editor > Get Started > Angular Application](https://docs.devexpress.com/AspNetCore/401527/rich-edit/get-started/angular-application)
+This example is a ready-to-use client Angular application with the DevExpress [RichEdit](https://docs.devexpress.com/AspNetCore/400373/office-inspired-controls/controls/rich-edit) component.
 
 ## Requirements
 * To use the RichEdit control in an Angular application, you need to have a [Universal, DXperience, or ASP.NET subscription](https://www.devexpress.com/buy/net/).
@@ -27,10 +25,11 @@ npm install
 ng serve --open
 ```
 
-## See Also
-Documentation:
-- [Add RichEdit to an Angular Application](https://docs.devexpress.com/AspNetCore/401527/office-inspired-controls/controls/rich-edit/angular)
-- [Rich Text Editor](https://docs.devexpress.com/AspNetCore/400373/office-inspired-controls/controls/rich-edit)
+## Documentation
 
-Examples:
+- [Rich Text Editor](https://docs.devexpress.com/AspNetCore/400373/rich-edit)
+- [Get Started: Add RichEdit to an Angular Application](https://docs.devexpress.com/AspNetCore/401527/rich-edit/get-started/angular-application)
+
+## More Examples
+
 - [RichEdit for Angular - How to customize the built-in ribbon](https://github.com/DevExpress-Examples/richedit-for-angular-how-to-customize-the-built-in-ribbon)
