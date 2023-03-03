@@ -5,7 +5,7 @@
 <!-- default badges end -->
 # Rich Text Editor for ASP.NET Core - Add the control to an Angular application
 
-This example is a ready-to-use client Angular application that contains the DevExpress [Rich Text Editor](https://docs.devexpress.com/AspNetCore/400373/office-inspired-controls/controls/rich-edit) control.
+This example is a ready-to-use Angular client application that contains the DevExpress [Rich Text Editor](https://docs.devexpress.com/AspNetCore/400373/office-inspired-controls/controls/rich-edit) control.
 
 ![Rich Text Editor](rich-in-angular.png)
 
