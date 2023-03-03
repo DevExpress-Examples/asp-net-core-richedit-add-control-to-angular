@@ -14,7 +14,7 @@ Refer to the following topic for more information: [Add RichEdit to an Angular A
 ## Requirements
 
 * To use the Rich Text Editor control in an Angular application, you need to have a [Universal, DXperience, or ASP.NET subscription](https://www.devexpress.com/buy/net/).
-* Versions of the devexpress npm packages should match.
+* Versions of the DevExpress npm packages should match.
 
 ## Quick Start
 
