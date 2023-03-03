@@ -35,8 +35,8 @@ Follow the steps below to run this application on your computer:
 ## Files to Review
 
 * [richedit.component.ts](JS/src/app/richedit/richedit.component.ts)
-* [app.component.html](.JS/src/app/app.component.html)
-* [angular.json](./JS/angular.json)
+* [app.component.html](JS/src/app/app.component.html)
+* [angular.json](/JS/angular.json)
 
 ## Documentation
 
