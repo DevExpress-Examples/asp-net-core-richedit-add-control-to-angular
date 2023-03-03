@@ -3,32 +3,44 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/T848108)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
-# RichEdit Angular Application
+# Rich Text Editor for ASP.NET Core - Add the control to an Angular application
 
-This example is a ready-to-use client Angular application with the DevExpress [RichEdit](https://docs.devexpress.com/AspNetCore/400373/office-inspired-controls/controls/rich-edit) component.
+This example is a ready-to-use Angular client application that contains the DevExpress [Rich Text Editor](https://docs.devexpress.com/AspNetCore/400373/office-inspired-controls/controls/rich-edit) control.
+
+![Rich Text Editor](rich-in-angular.png)
+
+Refer to the following topic for more information: [Add RichEdit to an Angular Application](https://docs.devexpress.com/AspNetCore/401527/rich-edit/get-started/angular-application).
 
 ## Requirements
-* To use the RichEdit control in an Angular application, you need to have a [Universal, DXperience, or ASP.NET subscription](https://www.devexpress.com/buy/net/).
-* Versions of the devexpress npm packages should be identical (their major and minor versions should be the same).
+
+* To use the Rich Text Editor control in an Angular application, you need to have a [Universal, DXperience, or ASP.NET subscription](https://www.devexpress.com/buy/net/).
+* Versions of the DevExpress npm packages should match.
 
 ## Quick Start
 
-1. Open the **JS** folder. In the command prompt, download and install npm packages that are used in the application:
+Follow the steps below to run this application on your computer:
 
-```
-npm install
-```
+1. Open the *JS* folder in the command prompt and run the following command to install npm packages used in the application:
 
-2. In the same folder, run the following command to compile and run the application:
+    ```
+    npm install
+    ```
 
-```bash
-ng serve --open
-```
+2. Execute the following command to compile and run the application:
+
+    ```
+    ng serve --open
+    ```
+
+## Files to Review
+
+* [richedit.component.ts](JS/src/app/richedit/richedit.component.ts)
+* [app.component.html](.JS/src/app/app.component.html)
+* [angular.json](./JS/angular.json)
 
 ## Documentation
 
 - [Rich Text Editor](https://docs.devexpress.com/AspNetCore/400373/rich-edit)
-- [Get Started: Add RichEdit to an Angular Application](https://docs.devexpress.com/AspNetCore/401527/rich-edit/get-started/angular-application)
 
 ## More Examples
 
